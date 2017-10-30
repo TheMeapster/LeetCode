@@ -1,5 +1,5 @@
 ![alt text](https://github.com/benbotvinick/LeetCode/blob/master/leetcode.png)
-## How to contribute
+# How to contribute
 1. Solve a problem on [LeetCode](https://leetcode.com)
 2. [Fork](https://help.github.com/articles/fork-a-repo/) this repository
 3. Create a new file in the folder of the language you're using (if it doesn't exist, create it!) and name it after the problem number. For example, `problem4.py`
