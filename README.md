@@ -1,2 +1,2 @@
-# leetcode
-Solutions to problems on leetcode.com
+# LeetCode
+Solutions to problems on LeetCode. Please feel free to contribute.
