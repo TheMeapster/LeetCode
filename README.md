@@ -7,7 +7,8 @@
 4. Update the `README.md` file in that project and add the title of the problem you solved as a link to the file you created.
 5. Create a new [pull request](https://help.github.com/articles/creating-a-pull-request/)
 
-### The pull request will only be merged if...
+### Merging
+Your pull request will be merged if...
 1. The solution is correct
 2. The file is titled accordingly and contains only the copied code from your solution on [LeetCode](https://leetcode.com)
 3. The update to `README.md` is formatted correctly and links to the correct file
